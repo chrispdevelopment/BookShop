@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderHandler>
+    <orders>
+        <entry>
+            <key>1</key>
+            <value>
+                <cost>25.0</cost>
+                <deliveryDate></deliveryDate>
+                <items>
+                    <item>2</item>
+                    <item>10</item>
+                </items>
+                <orderDate>02/03/2014</orderDate>
+                <orderID>1</orderID>
+                <publisher>Penguin Pub</publisher>
+                <status>Active</status>
+            </value>
+        </entry>
+    </orders>
+    <publishers>
+        <entry>
+            <key>Stalk NIght</key>
+            <value>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">2 Treak Bob</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Bobington</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Bob</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">BO4 8HB</address>
+                <email>night@gmail.com</email>
+                <name>Stalk NIght</name>
+                <phoneNo>124567512456</phoneNo>
+            </value>
+        </entry>
+        <entry>
+            <key>Penguin Pub</key>
+            <value>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">2 Bob Lane</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Bob Street</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Bobington</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">BO8 8OB</address>
+                <email>penguin@gmail.com</email>
+                <name>Penguin Pub</name>
+                <phoneNo>01324567894</phoneNo>
+            </value>
+        </entry>
+        <entry>
+            <key>Twain Papers</key>
+            <value>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">2 Mong Lane</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Mongose City</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Mongolia</address>
+                <address xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">MO7 7HB</address>
+                <email>papaer@gmail.com</email>
+                <name>Twain Papers</name>
+                <phoneNo>124576589452</phoneNo>
+            </value>
+        </entry>
+    </publishers>
+</orderHandler>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookHandler>
+    <electronicBooks>
+        <entry>
+            <key>3</key>
+            <value>
+                <authors>Jack</authors>
+                <isbn>3</isbn>
+                <price>25.0</price>
+                <pubDate>12/05/1985</pubDate>
+                <publisher>Twain Papers</publisher>
+                <title>Jack Ripper</title>
+                <type>Electronic</type>
+                <format>EBook</format>
+                <licences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">cffdsgg</licences>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>
+                <authors>The Mister</authors>
+                <isbn>2</isbn>
+                <price>25.0</price>
+                <pubDate>20/05/1985</pubDate>
+                <publisher>Penguin Pub</publisher>
+                <title>Brave New World</title>
+                <type>Electronic</type>
+                <format>EBook</format>
+                <licences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">HJY47388JUIF</licences>
+                <licences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">KIRUYF4758F</licences>
+            </value>
+        </entry>
+    </electronicBooks>
+    <paperBooks>
+        <entry>
+            <key>1</key>
+            <value>
+                <authors>God</authors>
+                <isbn>1</isbn>
+                <price>20.0</price>
+                <pubDate>12/05/1965</pubDate>
+                <publisher>Stalk NIght</publisher>
+                <title>Gods People</title>
+                <type>Paper</type>
+                <postageCost>10.2</postageCost>
+            </value>
+        </entry>
+    </paperBooks>
+    <stock>
+        <entry>
+            <key>3</key>
+            <value>
+                <amount>14</amount>
+                <isbn>3</isbn>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>
+                <amount>25</amount>
+                <isbn>2</isbn>
+            </value>
+        </entry>
+        <entry>
+            <key>1</key>
+            <value>
+                <amount>45</amount>
+                <isbn>1</isbn>
+            </value>
+        </entry>
+    </stock>
+</bookHandler>
